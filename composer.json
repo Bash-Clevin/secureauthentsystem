@@ -1,0 +1,6 @@
+{
+    "require": {
+        "endroid/qr-code": "^3.5",
+        "endroid/qrcode": "^3.5"
+    }
+}
