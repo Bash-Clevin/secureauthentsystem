@@ -15,7 +15,7 @@
 				<div class="col-xs-12 col-sm-4 col-md-6 col-lg-6">
 					<h4>Contact Us</h4>
 					<ul>
-						<li><i class="fa fa-phone"></i> (+254) 791-261060</li>
+						<li><i class="fa fa-phone"></i> </li>
 						<li><i class="fa fa-envelope"></i> support@apptheme.com</li>
 						<li><i class="fa fa-map"></i> 400 Nairobi</li>
 					</ul>
